@@ -51,4 +51,4 @@ And below is an example of what a single activity log in 2018-11-13-events.json,
 **Fact table**: songplays
 **Dimension table**: users, songs, artists and time.
 
-![alt text](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/lab/tree/star_schema.png)
+![star_schema](https://user-images.githubusercontent.com/44708711/88259187-6d322e80-ccdf-11ea-8f15-ed79cc7455d0.png)
